@@ -98,7 +98,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-30 221511.png>)
+![alt text](ex4.png)
 
 # RESULT:
 The programs are executed successfully.
